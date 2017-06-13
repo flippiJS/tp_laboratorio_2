@@ -1,0 +1,7 @@
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

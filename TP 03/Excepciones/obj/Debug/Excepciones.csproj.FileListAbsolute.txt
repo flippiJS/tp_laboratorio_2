@@ -1,0 +1,5 @@
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\dev\Documents\Visual Studio 2012\Projects\Lippi.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache

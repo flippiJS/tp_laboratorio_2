@@ -1,0 +1,11 @@
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+c:\users\dev\documents\visual studio 2012\Projects\Lippi.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
